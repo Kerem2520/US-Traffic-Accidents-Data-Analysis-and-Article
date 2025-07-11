@@ -5,9 +5,9 @@ Following data preprocessing, feature selection was performed using statistical 
 The project is currently in the process of being translated into an academic publication.
 
 ## Authors 
-Kerem Okur
-Nursena Taşköprü
+- Kerem Okur  
+- Nursena Taşköprü  
 
-##Summary
+## Summary
 
-![Oyundan Ekran Görüntüsü](Summary.png)
+![Summary](Summary.png)
